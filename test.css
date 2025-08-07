@@ -60,7 +60,7 @@ img {
    border-radius: 10px;
    padding: 30px;
    margin: 30px auto;
-   box-shadow: 10px 60px 50px rgb(196, 195, 195);
+   box-shadow: 10px 60px 50px rgb(78, 26, 26);
 }
 .name {
    font-weight: var(--font-weight-2);
